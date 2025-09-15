@@ -1,7 +1,7 @@
 {
-  "quiz_1": 95,
-  "quiz_2": 95,
-  "midterm": 95,
-  "project": 95,
-  "final": 95
+  "quiz_1": 0.95,
+  "quiz_2": 0.95,
+  "midterm": 0.95,
+  "project": 0.95,
+  "final": 0.95
 }
